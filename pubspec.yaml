@@ -1,4 +1,5 @@
-name: HSL-Cylinder
+name: HSL_Cylinder
 description: A Simple HSL Color Design Tool
 dependencies:
+  js: any
   browser: any
